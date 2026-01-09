@@ -1,3 +1,5 @@
+package com.example.springboot;
+
 public class LibraryCardInfo {
     private String firstName;
     private String lastName;
